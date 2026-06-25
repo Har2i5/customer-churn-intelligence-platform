@@ -1,4 +1,4 @@
-# 📊 Customer Churn Intelligence Platform
+# Customer Churn Intelligence Platform
 
 Predict • Prioritize • Retain
 
@@ -10,7 +10,7 @@ An end-to-end Data Science and Machine Learning project that predicts customer c
 
 **Streamlit App:**
 
-[Insert Streamlit URL Here]
+[Link](https://customer-churn-intelligence-platform-3r5vvuoappp43kl4799d9kq.streamlit.app/)
 
 ---
 
